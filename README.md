@@ -2,7 +2,7 @@
 
 Jupyter Notebook for geological orientation analysis.
 
-To run your conda environment must include [mplstereonet (plotting)](https://github.com/joferkington/mplstereonet/), [scikit-learn-extra (K-Medoids)](https://scikit-learn-extra.readthedocs.io/en/stable/generated/sklearn_extra.cluster.KMedoids.html#sklearn_extra.cluster.KMedoids), [sphstat (spherical stats)](https://sphstat.readthedocs.io/en/latest/index.html), and other usual libraries such as Numpy, Matplotlib, Pandas and Scipy.
+To run FracAttitude your conda environment must include [mplstereonet (plotting)](https://github.com/joferkington/mplstereonet/), [scikit-learn-extra (K-Medoids)](https://scikit-learn-extra.readthedocs.io/en/stable/generated/sklearn_extra.cluster.KMedoids.html#sklearn_extra.cluster.KMedoids), [sphstat (spherical stats)](https://sphstat.readthedocs.io/en/latest/index.html), and other usual libraries such as Numpy, Matplotlib, Pandas and Scipy.
 
 To create a conda environment use:
 
