@@ -8,4 +8,6 @@ To create a conda environment use:
 
 `conda env create -n fracattitude -f ./fracattitude-env-from-history.yml`
 
+TO run a new analysis just clone the base notebook.
+
 © 2024 Andrea Bistacchi, released under GNU AFFERO V.3 license.
