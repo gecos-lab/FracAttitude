@@ -1,0 +1,10 @@
+name: fracattitude
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - mplstereonet
+  - scikit-learn-extra
+  - pip:
+      sphstat
