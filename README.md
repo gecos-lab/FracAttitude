@@ -8,6 +8,13 @@ To create a conda environment use:
 
 `conda env create -n fracattitude -f ./fracattitude-env-from-history.yml`
 
+Then switch to the new environment and install sphstat with PyPi:
+
+```
+conda activate fracattitude
+pip install sphstat
+```
+
 To run a new analysis just clone the base notebook.
 
 © 2024 Andrea Bistacchi, released under GNU AFFERO V.3 license.
